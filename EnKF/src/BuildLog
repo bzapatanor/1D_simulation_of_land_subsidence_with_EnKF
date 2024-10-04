@@ -1,0 +1,2 @@
+FTN95.EXE "D:\berenice\Documents\GitHub\1D_land_subsidence_with_ensemble_Kalman_filter\src\EnKF\EnKF_K_f.f95" /NO_BANNER /VS7 /DELETE_OBJ_ON_ERROR /ERROR_NUMBERS /UNLIMITED_ERRORS /DEBUG /FPP /CFPP /BINARY "Debug\Win32\EnKF_K_f.obj" 
+slink.exe -STACK:1600000000 -OUT:"Debug\Win32\EnKF_f_Le.exe" @"D:\berenice\Documents\GitHub\1D_land_subsidence_with_ensemble_Kalman_filter\src\EnKF\link.lst" 
