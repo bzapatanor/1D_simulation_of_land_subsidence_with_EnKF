@@ -1,0 +1,2 @@
+Los archivos errores_*.txt contienen una realizacion con media cero, 
+sd=0.05 m y 0.5 cm/s, para h y K', respectivamente.
